@@ -12,7 +12,7 @@ Laporan:
 a. Analisis : di kerjakan oleh semua anggota kelompok
 b. membuat tampilan /user interface aplikasi untuk siswa dan admin: 19SA3082 dan 19SA3059
 c. membuat database: 19SA3081 dan 19SA3059
-c.  Membuat coding :
+d. Membuat coding :
 19SA3081 dan 19SA3082 (Halaman Siswa)
 19SA3059 (Halaman Admin)
 
