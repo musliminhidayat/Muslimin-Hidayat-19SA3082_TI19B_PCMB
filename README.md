@@ -10,15 +10,15 @@ Laporan:
 
 2.	Pembagian Tugas:
 a. Analisis : di kerjakan oleh semua anggota kelompok
-b. membuat tampilan /user interface aplikasi untuk siswa dan admin: 19SA3082 dan 19SA3059
+b. membuat tampilan /user interface aplikasi untuk user dan admin: 19SA3082 dan 19SA3059
 c. membuat database: 19SA3081 dan 19SA3059
 d. Membuat coding :
-19SA3081 dan 19SA3082 (Halaman Siswa)
+19SA3081 dan 19SA3082 (Halaman user)
 19SA3059 (Halaman Admin)
 
 3.	Rencana Tahapan:
 -Menganalisis sasaran aplikasi yang akan di buat.
 -membuat tampilan user interface untuk aplikasi mulai dari halaman login,logout,pendaftaran siswa,peringkat siswa dan pengumuman. 
--membuat database untuk menginputkan login siswa,admin, dan pendaftaran siswa.
+-membuat database untuk menginputkan login user,admin, dan pendaftaran user.
 -membuat program aplikasi
 -melakukan pengujian aplikasi setelah di buat.
