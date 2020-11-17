@@ -1,8 +1,24 @@
-# 19SA3082_TI19B_PCSB
+# 19SA3082_TI19B_PCMB
 Ketua : Muslimin Hidayat (19SA3082)
 Anggota : Wahyu Aryadila (19SA3059)
 Anggota : Muhammad Nursaddam (19SA3081)
 
-Pendaftaran Calon Siswa Baru (PCSB) adalah Aplikasi yang menyediakan Pendaftaran sekolah secara Online. Jadi pengguna dapat mendaftar sekolah dari rumah.
+#kelompok 4 – PCMB(Pendaftaran Calon Mahasiswa baru)-19SA3082+19SA3059,19SA3081
+Laporan:
 
-kami akan menggunakan model Prototype dikarenakan yg pertama pada kelompok kami hanya berjumlah 3 orang sedangkan model RAD membutuhkan kerjasama lebih dari 3 orang. dan untuk model WaterFall sedikit kompleks pada prosesnya sehingga kami menghindari problem - problem yang akan terjadi maka kami berkesimpulan bahwa model prototype yg kami gunakan yang juga proses yang bisa dikatakan tidak terlalu kompleks dan problem - problem dapat diantisipasi lebih mudah
+1.	Model Pengembangkan perangkat lunak yang di gunakan adalah RAD (Rapid Application Development). Alasan kelompok saya memilih RAD karena aplikasi ini memuat banyak tampilan dan database,apabila di kerjakan secara sendirian maka waktu di butuhkan sangat banyak sehingga pada projek ini pengerjaan nya di bagi menjadi 3 unrtuk menghemat waktu.
+
+2.	Pembagian Tugas:
+a. Analisis : di kerjakan oleh semua anggota kelompok
+b. membuat tampilan /user interface aplikasi untuk siswa dan admin: 19SA3082 dan 19SA3059
+c. membuat database: 19SA3081 dan 19SA3059
+c.  Membuat coding :
+19SA3081 dan 19SA3082 (Halaman Siswa)
+19SA3059 (Halaman Admin)
+
+3.	Rencana Tahapan:
+-Menganalisis sasaran aplikasi yang akan di buat.
+-membuat tampilan user interface untuk aplikasi mulai dari halaman login,logout,pendaftaran siswa,peringkat siswa dan pengumuman. 
+-membuat database untuk menginputkan login siswa,admin, dan pendaftaran siswa.
+-membuat program aplikasi
+-melakukan pengujian aplikasi setelah di buat.
