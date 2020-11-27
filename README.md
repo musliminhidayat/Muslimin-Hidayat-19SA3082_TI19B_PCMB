@@ -1,4 +1,4 @@
-# PCSB-TI19B
-PCSB (Pendaftaran Calon Siswa Baru) Siswa/Mahasiswa
+# PCMB-TI19B
+PCMB (Pendaftaran Calon Mahasiswa Baru) Mahasiswa
 
-tugas wahyu untuk membuat botton dari aplikasi
+Tugas dari Wahyu Aryadila adalah membuat Tampilan dan sistem untuk Aplikasi Mahasiswa
