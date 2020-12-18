@@ -1,0 +1,19 @@
+Kelas:Orang
+
+Objek: Calon Mahasiswa, Admin, Pendaftaran, Pengumpulan Berkas, Penjadwalan
+
+Atribut:
+
+Halaman User: NISN, Nama Lengkap, Tempat Tanggal Lahir, Alamat, Email, No Telepon, Asal Sekolah, Nama Ayah, Nama Ibu, Nilai UN IPA, Nilai UN Bahasa Indonesia, Nilai UN Matematika, Nilai Bahasa Inggris
+
+Halaman Admin: NIDN, Nama Lengkap, Jabatan
+
+Metode: Penginputan Data Pendaftaran, Pengiriman Berkas Ijazah, SKHUN, Nilai Rapot Semester 5, Nilai Rapot Semester 6
+
+Enkapsulasi
+
+Halaman User:Create, Read
+
+Halaman Admin:Read, Update Delete
+
+Pewarisan: Calon Mahasiswa Laki Laki, Calon Mahasiswa Perempuan
