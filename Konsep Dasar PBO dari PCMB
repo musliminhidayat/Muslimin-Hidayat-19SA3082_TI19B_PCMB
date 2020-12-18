@@ -1,1 +1,44 @@
+Halaman USER
 
+Class : Mahasiswa
+- Objek = Daftar Akun
+  Atribut = NamaLengkap, Email, Password
+  Metode = Set NamaLengkap, Set Email, Set Password
+- Objek = Login Akun
+  Atribut = Email, Password, Fingerprint
+  Metode = Set Email, Set Password
+- Objek = Profil
+  Atribut = MulaiPendaftaran, Gambar
+  Metode = Get Email, Get Gambar, Get Password
+- Objek = Pendaftaran
+  Atribut = NISN, NamaLengkap, TempatTanggalLahir, JenisKelamin, AlamatRumah, NoTelepon, Email, AsalSekolah, NamaAyah, NamaIbu, NilaiUjianNasional
+  Metode = Set NISN, Set NamaLengkap, Set TempatTanggalLahir, Set JenisKelamin, Set AlamatRumah, Set NoTelepon, Set Email, Set AsalSekolah, Set NamaAyah, Set NamaIbu, Set NilaiUjianNasional
+- Objek = Berkas
+  Atribut = ScanSKHUN, ScanIjazah, ScanRapotSemester5, ScanRapotSemester6
+  Metode = Set ScanSKHUN, Set ScanIjazah, Set ScanRapotSemester5, Set ScanRapotSemester6
+- Objek = Berita
+  Atribut = GambarBerita, TeksBerita
+  Metode = Set GambarBerita, Set TeksBerita
+- Objek = Jadwal
+  Atribut = Tanggal, Keterangan
+  Metode = Get Tanggal, Get Keterangan
+- Objek = Pengumuman
+  Atribut = NISN
+  Metode = Get NISN, Get NamaLengkap, Get AsalSekolah, Get NilaiRata-Rata
+  
+  
+  
+  
+Halaman ADMIN
+  
+Class = ADMIN
+- Objek = Daftar_Mahasiswa
+  Atribut = 
+  Metode = 
+- Objek = 
+  Atribut = 
+  Metode = 
+  
+  
+SEMENTARA!!!
+  
