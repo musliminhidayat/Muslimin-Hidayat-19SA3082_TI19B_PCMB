@@ -32,13 +32,18 @@ Class : Mahasiswa
 Halaman ADMIN
   
 Class = ADMIN
-- Objek = Daftar_Mahasiswa
+- Objek = Input Data
+  Atribut = NISN, Nama Lengkap, Alamat, Asal Sekolah, Nama Ayah, Nama Ibu, Nilai UN Matematika, Nilai UN Bahasa Indonesia, Nilai UN Bahasa Inggris, Nilai UN Mapel Pilihan
+  Metode = Set NISN, Set Nama Lengkap, Set Alamat, Set Asal Sekolah, Set Nama Ayah, Set Nama Ibu, Set Nilai UN Matematika, Set Nilai UN Bahasa Indonesia, Set Nilai UN Bahasa Inggris, Set Nilai UN Mapel Pilihan
+- Objek = Update Data
+  Atribut = NISN, Nama Lengkap, Alamat, Asal Sekolah, Nama Ayah, Nama Ibu, Nilai UN Matematika, Nilai UN Bahasa Indonesia, Nilai UN Bahasa Inggris, Nilai UN Mapel Pilihan
+  Metode = 
+- Objek = Delete Data
+  Atribut = NISN, Nama Lengkap, Alamat, Asal Sekolah, Nama Ayah, Nama Ibu, Nilai UN Matematika, Nilai UN Bahasa Indonesia, Nilai UN Bahasa Inggris, Nilai UN Mapel Pilihan
+  Metode = 
+- Objek = Tampilan Berkas
   Atribut = 
   Metode = 
-- Objek = 
-  Atribut = 
-  Metode = 
-  
   
 SEMENTARA!!!
   
